@@ -47,3 +47,5 @@ func fetch(url string, ch chan<- string) {
 }
 
 //!-
+
+// 示例: https://golang.org http://gopl.io https://godoc.org
